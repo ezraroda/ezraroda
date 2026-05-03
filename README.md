@@ -20,7 +20,7 @@ I'm a passionate engineer focused on building reliable, scalable systems and aut
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ezraroda)
-- [![LinkedIn](https://githubusercontent.com)](https://linkedin.com)
+- ![Static Badge](https://img.shields.io/badge/:badgeContent)
 - [contact@ezraroda.com]
 
 ---
