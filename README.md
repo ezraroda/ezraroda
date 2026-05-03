@@ -19,8 +19,7 @@ I'm a passionate engineer focused on building reliable, scalable systems and aut
 - Building resilient infrastructure
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/ezraroda)
-- ![Azure DevOps builds](https://img.shields.io/azure-devops/build/:organization/:projectId/:definitionId)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezraroda)
 - [contact@ezraroda.com]
 
 ---
