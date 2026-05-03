@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**ezraroda/ezraroda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate engineer focused on building reliable, scalable systems and automating everything I can.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Working with cloud-native technologies and DevOps practices
+- ☁️ Experienced in Kubernetes, CI/CD, and cloud platforms
+- 🔧 Enjoy solving complex infrastructure and automation challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Cloud:** Azure, AWS  
+- **Containers:** Kubernetes, Docker  
+- **CI/CD:** GitHub Actions, Azure DevOps, ArgoCD  
+- **Languages:** Bash, YAML, PowerShell, GoLang and more...  
+
+## 📌 What I'm Working On
+- Improving deployment automation
+- Exploring platform engineering patterns
+- Building resilient infrastructure
+
+## 📫 Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/ezraroda]
+- Email: [contact@ezraroda.com]
+
+---
+
+⭐️ *Always learning, always building*
