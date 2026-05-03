@@ -19,8 +19,8 @@ I'm a passionate engineer focused on building reliable, scalable systems and aut
 - Building resilient infrastructure
 
 ## 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/ezraroda]
-- Email: [contact@ezraroda.com]
+- [LinkedIn](https://www.linkedin.com/in/ezraroda)
+- [contact@ezraroda.com](contact@ezraroda.com)
 
 ---
 
