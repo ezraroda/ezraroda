@@ -11,7 +11,7 @@ I am an engineer with expertise in developing reliable, scalable systems and imp
 - **Cloud:** Azure, AWS  
 - **Containers:** Kubernetes, Docker  
 - **CI/CD:** GitHub Actions, Azure DevOps, ArgoCD  
-- **Languages:** Bash, YAML, PowerShell, GoLang and more...  
+- **Languages:** Bash, PowerShell, GoLang and more...  
 
 ## 📌 What I'm Working On
 - Improving deployment automation
