@@ -20,7 +20,7 @@ I'm a passionate engineer focused on building reliable, scalable systems and aut
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ezraroda)
-- ![Static Badge](https://img.shields.io/badge/:badgeContent)
+- ![Azure DevOps builds](https://img.shields.io/azure-devops/build/:organization/:projectId/:definitionId)
 - [contact@ezraroda.com]
 
 ---
