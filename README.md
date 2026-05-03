@@ -20,7 +20,8 @@ I'm a passionate engineer focused on building reliable, scalable systems and aut
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ezraroda)
-- [contact@ezraroda.com](contact@ezraroda.com)
+<a href="https://linkedin.com"><i class="fab fa-linkedin"></i></a>
+- [contact@ezraroda.com]
 
 ---
 
