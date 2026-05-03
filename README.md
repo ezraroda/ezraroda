@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate engineer focused on building reliable, scalable systems and automating everything I can.
+I am an engineer with expertise in developing reliable, scalable systems and implementing automation to improve efficiency.
 
 ## 🚀 About Me
 - 💻 Working with cloud-native technologies and DevOps practices
