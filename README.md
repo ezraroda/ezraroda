@@ -8,7 +8,7 @@ I am an engineer with expertise in developing reliable, scalable systems and imp
 - 🔧 Enjoy solving complex infrastructure and automation challenges
 
 ## 🛠️ Tech Stack
-- **Cloud:** Azure, AWS  
+- **Cloud:** Mainly Azure, AWS  
 - **Containers:** Kubernetes, Docker  
 - **CI/CD:** GitHub Actions, Azure DevOps, ArgoCD  
 - **Languages:** Bash, PowerShell, GoLang and more...  
