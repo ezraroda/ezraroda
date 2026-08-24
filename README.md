@@ -10,7 +10,7 @@ I am an engineer with expertise in developing reliable, scalable systems and imp
 ## 🛠️ Tech Stack
 - **Cloud:** Azure, AWS  
 - **Containers:** Kubernetes, Docker
-- **IaC** Terraform, Pulumi    
+- **IaC:** Terraform, Pulumi    
 - **CI/CD:** GitHub Actions, Azure DevOps, ArgoCD
 - **Languages:** Bash, PowerShell, GoLang and more...  
 
